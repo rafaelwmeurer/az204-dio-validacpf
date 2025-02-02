@@ -1,0 +1,7 @@
+services:
+  cpf-validator:
+    build: .
+    ports:
+      - "7071:7071"
+    volumes:
+      - .:/app
