@@ -121,4 +121,4 @@ A API implementa as seguintes regras de validação:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes
